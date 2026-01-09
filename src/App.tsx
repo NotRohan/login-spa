@@ -128,7 +128,7 @@ function App() {
     <div className="app-container">
       <main className="login-container">
         <div className="logo-container">
-          <img src="/logo.svg" alt="Evil Martians Logo" />
+          <img src="/login-spa/logo.svg" alt="Evil Martians Logo" />
         </div>
         <h1 className="login-heading">Evil Martians</h1>
         <form onSubmit={handleSubmit} noValidate aria-label="Sign in form">
